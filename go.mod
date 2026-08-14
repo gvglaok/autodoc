@@ -1,4 +1,4 @@
-module keven/autodoc
+module autodoc
 
 go 1.26.4
 
