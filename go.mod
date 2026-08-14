@@ -1,4 +1,4 @@
-module autodoc
+module github.com/gvglaok/autodoc
 
 go 1.26.4
 
