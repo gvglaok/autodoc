@@ -1,4 +1,6 @@
 # Autodoc
+
+![logo](./logo.png)
 ## 项目说明
 
 AutoDoc 是一个 CLI 工具，使用 Go 标准库 `go/ast` 扫描 Go 源码目录，生成 API 结构文档（Markdown）和 方法调用图 mermaid（特殊方法字段 可能引起图渲染错误），描述包的常量、变量、结构体和方法及其签名与注释。可配合 AI 工具使用 。
